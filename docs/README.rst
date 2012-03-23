@@ -10,7 +10,7 @@ Installation instructions
 
 If you're wondering how to get a local server going, read `installation.rst`_
 
-.. _installation.rst: installation.html
+.. _installation.rst: installation.rst
 
 
 Thanks to
